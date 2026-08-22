@@ -293,7 +293,7 @@ env.close()
 ```
 
 ## Output
-<img width="705" height="331" alt="image" src="https://github.com/user-attachments/assets/d8e5e10b-56ba-4c8f-b036-5b91a5a9d196" />
+<img width="384" height="284" alt="image" src="https://github.com/user-attachments/assets/e0fa09fb-c53a-4814-a23b-229862ca5a4e" />
 
 
 
